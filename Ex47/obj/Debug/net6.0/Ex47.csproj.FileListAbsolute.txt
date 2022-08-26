@@ -1,0 +1,15 @@
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.csproj.AssemblyReference.cache
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfoInputs.cache
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfo.cs
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.csproj.CoreCompileInputs.cache
+D:\Documents\Homework7\homework\Ex47\bin\Debug\net6.0\Ex47.exe
+D:\Documents\Homework7\homework\Ex47\bin\Debug\net6.0\Ex47.deps.json
+D:\Documents\Homework7\homework\Ex47\bin\Debug\net6.0\Ex47.runtimeconfig.json
+D:\Documents\Homework7\homework\Ex47\bin\Debug\net6.0\Ex47.dll
+D:\Documents\Homework7\homework\Ex47\bin\Debug\net6.0\Ex47.pdb
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.dll
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\refint\Ex47.dll
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.pdb
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\Ex47.genruntimeconfig.cache
+D:\Documents\Homework7\homework\Ex47\obj\Debug\net6.0\ref\Ex47.dll
