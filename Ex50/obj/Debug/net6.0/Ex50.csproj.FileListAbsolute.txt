@@ -1,0 +1,15 @@
+D:\Documents\Homework7\homework\Ex50\bin\Debug\net6.0\Ex50.exe
+D:\Documents\Homework7\homework\Ex50\bin\Debug\net6.0\Ex50.deps.json
+D:\Documents\Homework7\homework\Ex50\bin\Debug\net6.0\Ex50.runtimeconfig.json
+D:\Documents\Homework7\homework\Ex50\bin\Debug\net6.0\Ex50.dll
+D:\Documents\Homework7\homework\Ex50\bin\Debug\net6.0\Ex50.pdb
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.csproj.AssemblyReference.cache
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.AssemblyInfoInputs.cache
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.AssemblyInfo.cs
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.csproj.CoreCompileInputs.cache
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.dll
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\refint\Ex50.dll
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.pdb
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\Ex50.genruntimeconfig.cache
+D:\Documents\Homework7\homework\Ex50\obj\Debug\net6.0\ref\Ex50.dll
